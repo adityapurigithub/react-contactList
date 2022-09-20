@@ -1,0 +1,57 @@
+.formWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+.formWrapper .form {
+  width: 400px;
+  box-shadow: 1px 1px 10px 2px rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border-radius: 10px;
+}
+.form .title {
+  text-align: center;
+}
+.form .close {
+  text-align: end;
+}
+.form .field {
+  display: flex;
+  align-items: center;
+}
+.form .field .labelField {
+  width: 80px;
+  text-align: center;
+}
+.form .field .inputField {
+  width: 100%;
+  padding: 5px;
+  margin: 2px;
+}
+.inputField input {
+  width: 90%;
+  padding: 5px;
+  outline: none;
+}
+.inputField input:active {
+  outline: 1px solid gray;
+}
+.field .buttonField {
+  width: 100%;
+  text-align: end;
+}
+.buttonField button {
+  padding: 10px;
+  background-color: orange;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  margin: 10px 25px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.buttonField button:active {
+  background-color: rgba(235, 153, 0, 0.94);
+}
