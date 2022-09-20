@@ -24,10 +24,10 @@ A Contact List React-App.
 - Show the Contacts on the screen.
 - Data Fetched using JSON place holder API.
 - HTTP Methods used
-        -GET- To fetch the data from API.
-        -POST- To Add a contact.
-        -PUT- To Update an existing contact
-        -DELETE- To delete a contact.
+    -GET To fetch the data from API.
+    -POST- To Add a contact.
+    -PUT- To Update an existing contact
+    -DELETE- To delete a contact.
 - These Request sent to API are all dummy-valid request, means we cant change the data on server but it will send a response.  
    
 ## Directory Structure and flow of The Code
