@@ -23,7 +23,7 @@ A Contact List React-App.
 ## Basic-Features
 - Show the Contacts on the screen.
 - Data Fetched using JSON place holder API.
-- HTTP Methods used-
+- HTTP Methods used.
         -GET- To fetch the data from API.
         -POST- To Add a contact.
         -PUT- To Update an existing contact
